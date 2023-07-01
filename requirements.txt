@@ -1,0 +1,13 @@
+pandas 
+numpy 
+matplotlib 
+plotly
+openai 
+langchain 
+python-dotenv 
+tiktoken 
+sentence_transformers
+seaborn 
+tqdm 
+pypdf
+pinecone-client[grpc] --pre

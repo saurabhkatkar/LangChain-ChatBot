@@ -1,0 +1,7 @@
+.env
+openai credentials.txt
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
